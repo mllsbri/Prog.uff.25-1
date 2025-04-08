@@ -1,9 +1,16 @@
 # Prog.uff.25-1
 Exercícios John Reed
+
+
 #5 P4triang.py
+
 #FUPPEEBQ
+
 #1_ Leia os 3 lados reais de um triangulo;
+
 #2_ Classifique: equilatero; isosceles; escaleno
+
+
 
 #Inicio do codigo
 print('Olá usuário! Bem vindo ao classificador de triângulos!')
